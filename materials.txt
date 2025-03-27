@@ -9,7 +9,7 @@ Videos :
 
 SUBNETING : https://youtu.be/hbdT_Q9DM8w?si=G6SHFxjEkgYjhmZl
 DHCP Teaching : https://youtu.be/4pkDL1pgCgQ?si=g8nNTbASPCIJO4AF 
-
+OSPF Basic Concepts : https://youtu.be/vhuepwE4hF8?si=jwWXngiG89bqHxzF
 
 
 Configuratons :
